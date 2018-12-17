@@ -1,2 +1,2 @@
-# htm.github.io
+# sprinchak.github.io
 Мій перший хостинг
