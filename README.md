@@ -1,2 +1,2 @@
-# htmlOlya.github.io
+# htm.github.io
 Мій перший хостинг
